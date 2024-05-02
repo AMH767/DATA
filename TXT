@@ -1,2 +1,6 @@
 simvol
 wingdings
+Москва
+
+simvol
+wingdings
